@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 </p>
 
-<p align="center" style="font-size: 2.5rem; font-weight: bold;">
-  Danaggero
+<p align="center">
+  <b><span style="font-size: 30px;">Danaggero</span></b>
 </p>
 
 <p align="center">
