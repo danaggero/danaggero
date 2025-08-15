@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👨‍💻 Created by [Danaggero](https://github.com/Danaggero)
+  Danaggero
 
 </div>
 
