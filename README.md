@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b><span style="font-size: 30px;">Danaggero</span></b>
+  <b><span style="font-size: 60px;">Danaggero</span></b>
 </p>
 
 <p align="center">
