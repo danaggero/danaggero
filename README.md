@@ -1,7 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Project%20Name&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0A2342&height=200&section=header&text=Project%20Name&fontSize=70" />
 </div>
 
+<div align="center">
+
+### 👨‍💻 Created by [Danaggero](https://github.com/Danaggero)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0A2342&height=150&section=footer" />
+</div>
 ---
 
 ### 👋 Hi there! Welcome to [Project Name]
@@ -60,6 +69,4 @@ Make sure you have the following installed on your development machine:
 
 If you want to contact me, you can reach me at <your-email@example.com>.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
-</div>
+
