@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=145D76&height=300&section=header&text=JiWon Lee&fontSize=90&fontColor=%23FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=145D76&height=300&section=header&text=JiWonLee&fontSize=90&fontColor=%23FFFFFF)
